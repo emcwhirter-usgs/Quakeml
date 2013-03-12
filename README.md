@@ -1,6 +1,6 @@
 # Welcome to the Quakeml wiki!
 
-* [ANSS QuakeML Standards Working Group Project Brief](wiki/ANSS-Quakeml-Standards-Working-Group-Project-Brief)
+* [ANSS QuakeML Standards Working Group Project Brief](./wiki/ANSS-Quakeml-Standards-Working-Group-Project-Brief)
 * [PDL and Indexer Background](wiki/ANSS-PDL-Indexer-Background)
 * ANSS Quakeml Documentation
   * [ANSS Quakeml Standards](wiki/ANSS-Quakeml-Standards)
